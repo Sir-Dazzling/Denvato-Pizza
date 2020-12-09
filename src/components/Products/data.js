@@ -13,7 +13,7 @@ export const productData = [
       name: 'Supreme Pizza',
       desc:
         'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-      price: '3500',
+      price: '5500',
       button: 'Add to Cart'
     },
     {
@@ -22,7 +22,7 @@ export const productData = [
       name: 'Hawaiian Paradise',
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-      price: '2800',
+      price: '4800',
       button: 'Add to Cart'
     },
     {
@@ -31,7 +31,7 @@ export const productData = [
       name: 'Veggie Overload',
       desc:
         ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-      price: '2500',
+      price: '3500',
       button: 'Add to Cart'
     }
   ];
@@ -43,7 +43,7 @@ export const productData = [
       name: 'Doughlicious',
       desc:
         'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-      price: '$9.99',
+      price: '2850',
       button: 'Add to Cart'
     },
     {
@@ -52,7 +52,7 @@ export const productData = [
       name: 'Caramel Wonder',
       desc:
         'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
-      price: '$12.99',
+      price: '2500',
       button: 'Add to Cart'
     },
     {
@@ -61,7 +61,7 @@ export const productData = [
       name: 'Brownie Bunch',
       desc:
         'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-      price: '$9.99',
+      price: '1800',
       button: 'Add to Cart'
     }
   ];

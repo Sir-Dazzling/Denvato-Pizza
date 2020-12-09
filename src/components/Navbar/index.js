@@ -4,7 +4,7 @@ import {Nav, NavIcon, NavLink, Bars} from './NavbarElements';
 const Navbar = ({toggle}) => {
     return (
          <Nav>
-            <NavLink to="/">Denvato Pizza</NavLink>
+            <NavLink to="/">🍕 Denvato Pizza</NavLink>
             <NavIcon onClick={toggle}>
                 <p>Menu</p>
                 <Bars />
